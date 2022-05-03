@@ -38,5 +38,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <br/>
 <br/>
  
+ ![Snake animation](https://https://github.com/PaulaJusti01/paulajusti01/blob/output/github-contribution-grid-snake.svg)
+ 
  
 </div>
